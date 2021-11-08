@@ -67,12 +67,3 @@ btn2.pack()
 
 
 root.mainloop()
-
-#for o in range(len(i)):
-                #label1 = Label(root, text=i[o], justify='right')
-                #label1.pack
-                #print(i[o])
-#insert into stdtbl value('김범수','경남'),('성시경','서울'),('조용필','경기'),('은지원','경북'),('바비킴','서울');
-#insert into clubtbl value('수영','101호'),('바둑','102호'),('축구','103호'),('봉사','104호');
-#insert into stdclubtbl value(null,'김범수','바둑'),(null,'김범수','축구'),(null,'조용필','축구'),(null,'은지원','축구'),(null,'은지원','봉사'),(null,'바비킴','봉사');
-
