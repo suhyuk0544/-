@@ -40,7 +40,7 @@ def getTextInput():
             if column == result:
                 break
         
-        except: #에러 메세지
+        except: #예외 처리
             messagebox.showerror("Error", "수를 다시 입력해 주십시오")
             break
         else:  
